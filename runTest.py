@@ -10,4 +10,4 @@ if __name__ == '__main__':
     #allure generate ./result/ -o ./report/ --clean (覆盖路径加--clean)
     #打开报告
     #allure open -h 127.0.0.1 -p 8883 ./report/
-    os.system(r'allure serve C:\Users\Administrator\Desktop\cluster_hmi\Project\reports')
+    #os.system(r'allure serve C:\Users\Administrator\Desktop\cluster_hmi\Project\reports')
